@@ -1,0 +1,18 @@
+{
+    "name": "ahmed/form_validate",
+    "description": "form validation package",
+    "type": "metapackage",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamed ayad"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*"
+    }
+}
